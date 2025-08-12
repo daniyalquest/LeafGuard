@@ -39,9 +39,3 @@ LeafGuard is a Streamlit-based web application that uses deep learning to detect
 ## Security
 - Passwords are hashed using SHA-256
 - User data is stored in MongoDB Atlas
-
-## Disclaimer
-> ⚠️ This tool is for educational purposes only and should not replace expert agricultural advice.
-
-## License
-MIT License
